@@ -1,0 +1,11 @@
+{
+  "name": "node_ninja_2",
+  "version": "1.0.0",
+  "description": "for learning purpose only",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
